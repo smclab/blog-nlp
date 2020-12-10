@@ -1,0 +1,12 @@
+version: '3.5'
+services:
+    nlp:
+        container_name: nlp
+        build:
+            dockerfile: nlp/Dockerfile
+            context: .
+        volumes:
+            - ./nlp:/tf/nlp
+        ports:
+            - '8888:8888'
+            - '5000:5000'
