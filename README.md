@@ -32,6 +32,9 @@ You can see logs of servive typing:
 docker-compose logs -f nlp
 ```
 
+Just launched the container you can see on logs the url to log into jupyter notebook environment.
+Copy url that begins with *http://127.0.0.1:8888/?token=* and paste it on your browser. 
+Then go to *http://localhost:8888* and run notebooks.
 
 To rebuild image type:
 
