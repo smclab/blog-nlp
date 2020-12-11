@@ -1,6 +1,6 @@
-# Blog NLP
+# Named Entity Recognition
 
-In this directory is present related to [Tech Blog Named Entity Recognition article]()
+In this directory is present code and data related to [Tech Blog Named Entity Recognition article]()
 
 ## Repository Organization
 
