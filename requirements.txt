@@ -5,3 +5,4 @@ matplotlib
 ipywidgets
 nltk
 seaborn
+fasttext
