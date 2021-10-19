@@ -6,3 +6,5 @@ ipywidgets
 nltk
 seaborn
 fasttext
+gensim
+pyLDAvis

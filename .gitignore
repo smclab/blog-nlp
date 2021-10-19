@@ -2,3 +2,5 @@ venv
 .ipynb_checkpoints
 .idea
 nlp/2-text-clf/models
+nlp/3-topic-modelling/models
+nlp/3-topic-modelling/data/News_Category_Dataset_v2.json
