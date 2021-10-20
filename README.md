@@ -7,7 +7,7 @@ Language Processing articles series.
 
 This repository is organized in multiple folders. Every folder is related to specific article in Smc Tech Blog.
 
-* [1-ner](1-ner): contains code related to Named Entity Recognition article
+* [1-ner](nlp/1-ner): contains code related to Named Entity Recognition article
 * [2-text-classification](): coming soon
 * [3-topic-modeling](): coming soon
 * [4-entity-linking](): coming soon
