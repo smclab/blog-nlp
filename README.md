@@ -7,9 +7,10 @@ Language Processing articles series.
 
 This repository is organized in multiple folders. Every folder is related to specific article in Smc Tech Blog.
 
-* [1-ner](nlp/1-ner): contains code related to Named Entity Recognition article
-* [2-text-classification](): coming soon
-* [3-topic-modeling](): coming soon
+* [1-ner](nlp/1-ner): contains code related to [Named Entity Recognition article](https://techblog.smc.it/en/2020-12-11/nlp-ner)
+* [2-text-classification](nlp/2-text-clf): contains code related to [Text Classification](https://techblog.smc.it/en/2020-12-21/nlp-text-clf)
+using Machine Learning
+* [3-topic-modeling](nlp/3-topic-modelling): contains code related to [Topic Modelling con Gensim](https://techblog.smc.it/en/2021-10-15/topic-modelling)
 * [4-entity-linking](): coming soon
 * [5-machine-translation](): coming soon
 
