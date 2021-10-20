@@ -1,6 +1,6 @@
 # Named Entity Recognition
 
-In this directory is present code and data related to [Tech Blog Named Entity Recognition article]()
+In this directory is present code and data related to [Tech Blog Named Entity Recognition article](https://techblog.smc.it/en/2020-12-21/nlp-text-clf)
 
 ## Repository Organization
 
